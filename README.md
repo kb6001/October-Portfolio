@@ -1,6 +1,6 @@
 # October-Portfolio
 GitHub portfolio for October Submission
-# Proof of Completion
+
 # Business Communication
 <img width="1365" height="644" alt="Screenshot 2025-10-20 204635" src="https://github.com/user-attachments/assets/703b8a14-9815-4a2a-8543-e69da96d972d" />
 S - Situation
@@ -30,7 +30,8 @@ R - Result
 Through practice and reflection, I became more confident and articulate in expressing my strengths and experiences. I learned how to give concise and relevant answers that make a strong impression on interviewers.
 
 # Mock Interview
-
+<img width="1365" height="736" alt="Screenshot 2025-10-20 212048" src="https://github.com/user-attachments/assets/e7f5e0fe-e11a-4569-b895-d7ba0f25fdc5" />
+https://drive.google.com/file/d/1oOD6VR0CmJCAZB1GzLrAz1uPo6tpbnB6/view?usp=sharing
 S - Situation
 I completed a recorded mock interview to simulate a real job interview environment.  
 
