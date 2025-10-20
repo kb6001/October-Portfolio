@@ -4,11 +4,14 @@ GitHub portfolio for October Submission
 # Business Communication
 <img width="1365" height="644" alt="Screenshot 2025-10-20 204635" src="https://github.com/user-attachments/assets/703b8a14-9815-4a2a-8543-e69da96d972d" />
 S - Situation
-During the work readiness training, I was required to prepare and present professional communication materials, including emails, reports, and presentations.  
+During the work readiness training, I was required to prepare and present professional communication materials, including emails, reports, and presentations. 
+
 T - Task
 My goal was to demonstrate effective written and verbal communication that conveys ideas clearly and professionally to different audiences.  
+
 A - Action
 I drafted and revised my messages to ensure clarity, proper tone, and structure. I applied techniques such as proofreading, using business-appropriate language, and adding visuals where necessary.  
+
 R - Result
 I developed a stronger understanding of how to adapt my communication style for professional settings. This improved my confidence when speaking and writing formally, and taught me the importance of clarity, tone, and audience awareness.
 
